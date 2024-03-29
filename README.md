@@ -1,5 +1,6 @@
 # sra-explorer
-a native enumaltor for the sra explorer and it will explore the sra and will bring all the information and will generate the go to files for the analysis. You simply have to provide as many as much as posisble SRA accessions for the use of the same. It uses a regular expressions plus two associative arrays to store all the information. A python version and a rust crate is also present for the use. In python and rust i implemented a binary search approach so that it will indexed the query as a native graph node. 
+a native enumaltor for the sra explorer and it will explore the sra and will bring all the information and will generate the go to files for the analysis. You simply have to provide as many as much as posisble SRA accessions for the use of the same. It uses a regular expressions plus two associative arrays to store all the information. 
+
 ```
 #! /usr/bin/bash
 # Universitat Potsdam
