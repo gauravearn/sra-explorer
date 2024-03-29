@@ -143,9 +143,6 @@ else
                  echo "no option selected"
 fi
 ```
-
-updated 2024-2-19 evening: added a router configure for the shellspace. Adding the support for the cloud genomics such as pushing the pangenome assemblies directly from the SRA to the cloud or the cluster compute.  
-
 Gaurav Sablok, \
 Academic Staff Member,\
 Bioinformatics,\
