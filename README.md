@@ -4,7 +4,7 @@ a native enumaltor for the sra explorer and it will explore the sra and will bri
 ```
 #! /usr/bin/bash
 # Universitat Potsdam
-# Author Gaurav Sablok
+# Author Gaurav
 # date: 2024-2-19
 # a pure native enumaltor for the sra explorer by Phil
 # it works with multiple and overcomes the limitations of the exploration
@@ -144,7 +144,7 @@ else
                  echo "no option selected"
 fi
 ```
-Gaurav Sablok, \
+Gaurav, \
 Academic Staff Member,\
 Bioinformatics,\
 Institute for Biochemistry and Biology,\
